@@ -57,8 +57,8 @@ The `title` parameter is used in the SVG (and HTML)`<title>` element. It is not,
 
 So far, the characters that can be used in `text` are: ABCDEFGHIJKLMNOPQRSTUVWXZabcdefghijklmnopqrstuv1234567890',-&.:"()+$?!/
 
-![text function ref](text-ref.svg)
-Format: ![Alt Text](url)
+![text function ref](text-ref.png)
+Format: ![PNG image of reference]('https://github.com/TripleDataArts/svg-whiteboard/edit/master/text-ref.png')
 
 ## TODOs
 
